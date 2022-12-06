@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
     <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <applicability display_value="NeedIt Admins">20e42f1697631110b7087f200153af65</applicability>
         <order>100</order>
         <screen display_value="NeedIt Admin home">b1bbfe8a97e31110b7087f200153afd2</screen>
