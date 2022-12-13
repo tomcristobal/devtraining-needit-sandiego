@@ -4,13 +4,13 @@
         <name>Home</name>
         <sys_class_name>sys_ux_screen_type</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-12-05 10:21:58</sys_created_on>
-        <sys_id>b9bbfe8a97e31110b7087f200153afce</sys_id>
+        <sys_created_on>2022-12-13 09:47:01</sys_created_on>
+        <sys_id>7760c87897f711107f3cb998c253afdd</sys_id>
         <sys_name>Home</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_ux_screen_type_b9bbfe8a97e31110b7087f200153afce</sys_update_name>
+        <sys_update_name>sys_ux_screen_type_7760c87897f711107f3cb998c253afdd</sys_update_name>
     </sys_ux_screen_type>
-    <sys_translated_text action="delete_multiple" query="documentkey=b9bbfe8a97e31110b7087f200153afce"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=7760c87897f711107f3cb998c253afdd"/>
 </record_update>
